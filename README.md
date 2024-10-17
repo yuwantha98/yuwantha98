@@ -2,6 +2,7 @@
 
 <h1 align="center"> Hello 👋, I'm Yuwantha</h1>
 <h3 align="center">=====| Full-Stack Developer |====</h3>
+<br>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuwantha98&theme=algolia" alt="yuwantha98" />
@@ -106,7 +107,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yuwantha98&label=Profile%20views&color=0e75b6&style=flat" alt="yuwantha98" />
+  <img src="https://komarev.com/ghpvc/?username=yuwantha98" alt="yuwantha98" />
 </p>
 
 <h2 align="center">📫 How to reach me</h2>

@@ -1,4 +1,4 @@
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat)]([https://www.linkedin.com/in/sharada-marasinha/](https://www.linkedin.com/in/yuwantha-ravihara-74505b258/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat)]([https://www.linkedin.com/in/yuwantha-ravihara-74505b258/])
 
 <h1 align="center"> Hello 👋, I'm Yuwantha</h1>
 <h3 align="center">=====| Full-Stack Developer |====</h3>

@@ -111,5 +111,10 @@
 </p>
 
 <h2 align="center">📫 How to reach me</h2>
-<p align="center"><strong><a href="yuwantharavihara123@gmail.com">yuwantharavihara123@gmail.com</a></strong></p>
+<p align="center">
+  <strong>
+    <a href="mailto:yuwantharavihara123@gmail.com">yuwantharavihara123@gmail.com</a>
+  </strong>
+</p>
+
 
